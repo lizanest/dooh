@@ -1,0 +1,50 @@
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.logo {
+    text-align: center;
+}
+
+.button {
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: red;
+    cursor: pointer;
+    color: beige;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: xx-large;
+    padding: 2rem;
+    margin: 3rem;
+    width: 25rem;
+}
+
+.button:hover {
+    background-color: rgb(146, 26, 26);
+}
+
+.outline {
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
